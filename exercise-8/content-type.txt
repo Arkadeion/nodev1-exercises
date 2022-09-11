@@ -1,0 +1,1 @@
+The content-type header for the URL https://jsonplaceholder.typicode.com/posts/1/comments is: application/json; charset=utf-8
