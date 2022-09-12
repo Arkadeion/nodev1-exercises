@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Arkadeion/nodev1-exercises#readme",
   "dependencies": {
     "figlet": "^1.5.2"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "supertest": "^6.2.4"
   }
 }
