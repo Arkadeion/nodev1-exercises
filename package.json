@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Arkadeion/nodev1-exercises#readme",
   "dependencies": {
+    "cli-color": "^2.0.3",
     "figlet": "^1.5.2"
   },
   "devDependencies": {
